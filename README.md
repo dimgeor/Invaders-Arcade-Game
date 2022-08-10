@@ -1,8 +1,12 @@
-<h1 align="center">Welcome to Invaders Arcade Game 👋</h1>
+<h1 align="center">Invaders Arcade Game</h1>
 <p>
 </p>
 
 > An Invaders arcade game for the tiva-c launchpad and the mk-II boosterpack based on my custom RTOS.
+> The specific RTOS was made as part of my final project for the Real Time Bluetooth Networks EDX course. 
+> The project was made on Keil U-Vision v5.
+
+##Video Demo
 
 ## Author
 
