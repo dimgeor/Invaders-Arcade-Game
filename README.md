@@ -6,7 +6,7 @@
 > The specific RTOS was made as part of my final project for the Real Time Bluetooth Networks EDX course. 
 > The project was made on Keil U-Vision v5.
 
-##Video Demo
+## Video Demo
 
 ## Author
 
