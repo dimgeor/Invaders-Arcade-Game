@@ -7,7 +7,7 @@
 > The project was made on Keil uVision5.
 
 > The BSP (Board Support Package) files were provided by the instructors.
-> 
+
 > Because my MK-II boosterpack came faulty without the temperature sensor I had to modify the BSP files. The originals are included.
 
 ## Video Demo
