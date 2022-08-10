@@ -9,5 +9,5 @@
 👤 **Dimitris Georgoudis**
 
 * Github: [@dimgeor](https://github.com/dimgeor)
-* LinkedIn: [@Dimitris Georgoudis](https://linkedin.com/in/Dimitris Georgoudis)
+* LinkedIn: [@Dimitris Georgoudis](https://www.linkedin.com/in/dimitris-georgoudis-2411441b6/)
 
